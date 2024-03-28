@@ -6,6 +6,7 @@ import java.util.LinkedList;
 
 public class ProducerConsumerExample {
     public static void main(String[] args) throws InterruptedException {
+        System.out.println("ln9");
         final PC pc = new PC();
 
         // Create producer thread
